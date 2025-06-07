@@ -94,9 +94,13 @@ Random Forest generally yielded the lowest error; however, Ridge performed bette
 
 ## 📁 Project Structure
 ├── data/ # Raw and processed datasets
+
 ├── notebooks/ # Jupyter notebooks for analysis & modeling
+
 ├── dashboards/ # Tableau dashboard links
+
 ├── src/ # Scripts for scraping, preprocessing, modeling
+
 ├── README.md # Project documentation
 
 
